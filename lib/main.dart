@@ -20,8 +20,8 @@ void main() async {
 
   //LCInstallation.getCurrentInstallation().saveInBackground();
   LeanCloud.initialize(
-      '2NOIqAps19MPeBKbPiPHHYzb-gzGzoHsz', 'RDqWkuwJCfTMLpCv9mo2ILwE',
-      server: 'https://2noiqaps.lc-cn-n1-shared.com',
+      'username', 'password',
+      server: 'url',
       queryCache: LCQueryCache());
   // 在 LeanCloud.initialize 初始化之后执行
 
