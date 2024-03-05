@@ -1,10 +1,12 @@
 ## MOYU——校园二手教辅流通APP
 
-MOYU 是一个由flutter +Leancloud开发的FZYZ校内二手教辅交易信息平台
-This is an App used to provide a convenient platform for exchanging idle tutorial books, aimed to promote unused book exchanges, helping reduce the waste of books in student groups. 
+MOYU 是一个由flutter & Leancloud 开发的FZYZ校内二手教辅交易信息平台
+
+This is an App used to provide a convenient platform for exchanging used-tutorial books, aimed to promote unused book exchanges, helping reduce the waste of books in student groups. 
 
 使用flutter开发前端页面和接口，Leancloud作为后端数据库
-Use flutter to develop front-end pages and interfaces, and Leancloud as the back-end database
+
+Use Flutter to develop front-end, and Leancloud as the back-end.
 
 Features include:
 - Front page
